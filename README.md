@@ -1,1 +1,1 @@
-# Bus-Management-and-Reservation-Systerm
+# Bus Management and Reservation System
